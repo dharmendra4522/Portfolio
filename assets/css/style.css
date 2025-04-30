@@ -1880,3 +1880,13 @@ textarea.form-input::-webkit-resizer { display: none; }
   .timeline-text { max-width: 700px; }
 
 }
+
+/*-----------------------------------*\
+  #MESSAGE
+\*-----------------------------------*/
+#msg{
+  color: #61b752;
+  margin-top: -40px;
+  display: block;
+
+}
